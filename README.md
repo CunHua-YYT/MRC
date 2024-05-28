@@ -1,11 +1,14 @@
 # MRC-PyTorch
 
 ## MRC test results
+We annotated the top ten ROIs of MRC with different colors.
 ![Image](https://github.com/CunHua-YYT/MRC/blob/main/1_1Result/original(5794)_save.jpg)
 ![Image](https://github.com/CunHua-YYT/MRC/blob/main/1_1Result/original(5807)_save.jpg)
 ![Image](https://github.com/CunHua-YYT/MRC/blob/main/1_1Result/original(5752)_save.jpg)
 ![Image](https://github.com/CunHua-YYT/MRC/blob/main/1_1Result/original(5729)_save.jpg)
 
+
+## Usage
 ### Requirements
 - PyTorch>=1.0
 
