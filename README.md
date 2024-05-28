@@ -1,6 +1,9 @@
 # MRC-PyTorch
 
 ## MRC test results
+![Image](https://github.com/CunHua-YYT/MRC/blob/main/1_1Result/original(5794)_save.jpg)
+![Image](https://github.com/CunHua-YYT/MRC/blob/main/1_1Result/original(5807)_save.jpg)
+![Image](https://github.com/CunHua-YYT/MRC/blob/main/1_1Result/original(5752)_save.jpg)
 ![Image](https://github.com/CunHua-YYT/MRC/blob/main/1_1Result/original(5729)_save.jpg)
 
 ### Requirements
@@ -58,6 +61,4 @@ cd $PRJ_ROOT
 python evaluate/test.py 
 ```
 
-
-4.We placed the results of the 1:1 aspect ratio evaluation in the "txtResult" folder, and the visualizations of the top ten scores for the 1:1 aspect ratio in the "1_1Result" folder.
 
