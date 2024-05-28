@@ -1,7 +1,7 @@
 # MRC-PyTorch
 
-
-
+##MRC test results
+![Image](https://github.com/CunHua-YYT/MRC/blob/main/1_1Result/original(5729)_save.jpg)
 
 ### Requirements
 - PyTorch>=1.0
