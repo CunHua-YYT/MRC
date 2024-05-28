@@ -33,9 +33,7 @@ sudo bash make_all.sh
 ```
 
 ### Running Demo
-1. Download pretrained models(~98MB) from [[Google Drive]](https://drive.google.com/file/d/1U_8C9oWOBT64LHtxZP1_0Uo9Ndw0QLsJ/view?usp=sharing) [[Baidu Cloud]](https://pan.baidu.com/s/1fmy18FD5_0v6vrab6OZKmQ)(access code: *webf*). By default, we assume the models (``*.pth``) is stored in `$PRJ_ROOT/pretrained_models`.
-
-2. Predict best crops for the user's images.
+Predict best crops for the user's images.
 ```Shell
 cd $PRJ_ROOT
 python evaluate/demo.py --gpu 0 --image_dir $IMAGE_PATH/IMAGE_FOLDER --save_dir $RESULT_FOLDER
@@ -55,13 +53,6 @@ cd $PRJ_ROOT
 python train/train.py --gpu 0 --backbone vgg16
 # or just running python train/train.py
 ```
-The model performance for each epoch is also recorded in ``*.csv`` file under the produced ``experiments`` folder.
-More model parameters and experimental settings can be found in ``config/GAIC_params.yaml``. 
 
-3. Evaluate the pretrained model and reproduce the below quantitative results， the txt result will be saved.
-```Shell
-cd $PRJ_ROOT
-python evaluate/test.py 
-```
 
 
