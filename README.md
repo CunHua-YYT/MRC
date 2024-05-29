@@ -3,9 +3,9 @@
 ## MRC test results
 ![Image](https://github.com/CunHua-YYT/MRC/blob/main/result_images/Fig9.png)
 We annotated the ROIs of MRC with different colors.
-![Image](https://github.com/CunHua-YYT/MRC/blob/main/1_1Result/original(5794)_save.jpg)
-![Image](https://github.com/CunHua-YYT/MRC/blob/main/1_1Result/original(5807)_save.jpg)
 ![Image](https://github.com/CunHua-YYT/MRC/blob/main/1_1Result/original(5752)_save.jpg)
+![Image](https://github.com/CunHua-YYT/MRC/blob/main/1_1Result/original(5773)_save.jpg)
+![Image](https://github.com/CunHua-YYT/MRC/blob/main/1_1Result/original(5807)_save.jpg)
 ![Image](https://github.com/CunHua-YYT/MRC/blob/main/1_1Result/original(5729)_save.jpg)
 
 
